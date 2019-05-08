@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Verify the sams home page scenarios",
+    "children" : [ {
+      "name" : "check that the home page title is correct",
+      "uid" : "c5fe68c62ccd105",
+      "parentUid" : "ca9235921fc7edc83c3c36dc868aca49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554395994468,
+        "stop" : 1554395999622,
+        "duration" : 5154
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "ca9235921fc7edc83c3c36dc868aca49"
+  } ]
+}

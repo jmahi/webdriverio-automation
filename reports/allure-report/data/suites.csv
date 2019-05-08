@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Apr 04 09:39:54 PDT 2019","Thu Apr 04 09:39:59 PDT 2019","5154","","Verify the sams home page scenarios","","Verify the sams home page scenarios","check that the home page title is correct","check that the home page title is correct",""

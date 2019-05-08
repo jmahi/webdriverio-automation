@@ -1,0 +1,7 @@
+[ {
+  "values" : [ "{\"maxInstances\":5,\"browserName\":\"chrome\"}" ],
+  "name" : "capabilities"
+}, {
+  "values" : [ "[\"/Users/jrobi38/Documents/webdriverioFramework-report/tests/samsHomePageTest.js\"]" ],
+  "name" : "spec files"
+} ]

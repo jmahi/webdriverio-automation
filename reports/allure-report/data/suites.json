@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Verify the sams home page scenarios",
+    "children" : [ {
+      "name" : "check that the home page title is correct",
+      "uid" : "c5fe68c62ccd105",
+      "parentUid" : "8ee6b62816387476aa87cb8d78ffc2e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554395994468,
+        "stop" : 1554395999622,
+        "duration" : 5154
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "8ee6b62816387476aa87cb8d78ffc2e3"
+  } ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "webdriverioframework-report",
+  "version": "1.0.0",
+  "description": "webdriverio framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.0.2",
+    "selenium-standalone": "^6.15.3",
+    "webdriverio": "^4.13.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "wdio-allure-reporter": "^0.8.3",
+    "wdio-mocha-framework": "^0.6.4",
+    "wdio-selenium-standalone-service": "0.0.12"
+  }
+}
